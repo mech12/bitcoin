@@ -1,5 +1,8 @@
 by mech12
 
+https://medium.com/@jordan.baczuk/how-to-fork-bitcoin-c39139506443
+
+
 Bitcoin Core integration/staging tree
 =====================================
 
