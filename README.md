@@ -1,5 +1,7 @@
 by mech12
 
+1
+
 https://medium.com/@jordan.baczuk/how-to-fork-bitcoin-c39139506443
 
 
